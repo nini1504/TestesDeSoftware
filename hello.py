@@ -5,7 +5,7 @@ for i in range (10):
     print(i*2)
     
 n=5
-if n==5:
+if n==8:
     print("Sim")
 else:
     print("Não")
